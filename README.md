@@ -1,8 +1,8 @@
 # skilltest
 
-clone the repo by : `git clone https://github.com/SKMHaneef/skilltest.git`
+clone the repo by : https://github.com/SumilBajarang/L7InformaticsSkillTest
 
-Navigate to skill test repo : `L7INFORMATICS skilltest repo
+Navigate to skill test repo : `L7InformaticsSkillTest repo
 
 install dependencies:  `npm install`
 
