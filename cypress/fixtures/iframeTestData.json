@@ -1,0 +1,10 @@
+{
+  "BOLD":{
+    "formatType":"Bold",
+    "text":"Formatting Text to Bold"
+  },
+  "ITALICS":{
+    "formatType":"Italic",
+    "text":"Text Format Validation for italics"
+  }  
+}

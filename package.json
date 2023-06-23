@@ -1,0 +1,21 @@
+{
+  "name": "l7informatics_cypress_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "chromeTest": "npm run test -- --browser chrome",
+    "headedTest": "npm run test -- --headed --browser chrome",
+    "dragAndDropTest": "npm run test -- --spec cypress/e2e/herokuapp/DragAndDropTest.cy.js",
+    "iframeTest": "npm run test -- --spec cypress/e2e/herokuapp/IframeTest.cy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.5.1"
+  }
+}
